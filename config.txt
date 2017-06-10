@@ -1,0 +1,187 @@
+<config=1
+
+<video pieski11000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/PUPPIES.mp4_11000k.raw
+<width 4096
+<height 2304
+<fps 40000
+<depth 12
+<codec I420
+
+<video pieski1000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/PUPPIES.mp4_1000k.raw
+<width 4096
+<height 2304
+<fps 40000
+<depth 12
+<codec I420
+
+<video chinka
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/chimei.raw
+<width 3840
+<height 2160
+<fps 33333
+<depth 12
+<codec I420
+
+<video chinka1000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/Chimei.mp4_1000k.raw
+<width 3840
+<height 2160
+<fps 33333
+<depth 12
+<codec I420
+
+<video chinka6000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/Chimei.mp4_6000k.raw
+<width 3840
+<height 2160
+<fps 33333
+<depth 12
+<codec I420
+
+<video pieski7000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/PUPPIES.mp4_7000k.raw
+<width 4096
+<height 2304
+<fps 40000
+<depth 12
+<codec I420
+
+<video pieski1500
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/PUPPIES.mp4_1500k.raw
+<width 4096
+<height 2304
+<fps 40000
+<depth 12
+<codec I420
+
+<video pieski9000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/PUPPIES.mp4_9000k.raw
+<width 4096
+<height 2304
+<fps 40000
+<depth 12
+<codec I420
+
+<video pieski4000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/PUPPIES.mp4_4000k.raw
+<width 4096
+<height 2304
+<fps 40000
+<depth 12
+<codec I420
+
+<video pieski5000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/PUPPIES.mp4_5000k.raw
+<width 4096
+<height 2304
+<fps 40000
+<depth 12
+<codec I420
+
+<video pieski6000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/PUPPIES.mp4_6000k.raw
+<width 4096
+<height 2304
+<fps 40000
+<depth 12
+<codec I420
+
+
+<video pieski8000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/PUPPIES.mp4_8000k.raw
+<width 4096
+<height 2304
+<fps 40000
+<depth 12
+<codec I420
+
+<video pieski
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/puppies.raw
+<width 4096
+<height 2304
+<fps 40000
+<depth 12
+<codec I420
+
+<video chinka3000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/Chimei.mp4_3000k.raw
+<width 3840
+<height 2160
+<fps 33333
+<depth 12
+<codec I420
+
+<video chinka4000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/Chimei.mp4_4000k.raw
+<width 3840
+<height 2160
+<fps 33333
+<depth 12
+<codec I420
+
+<video chinka5000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/Chimei.mp4_5000k.raw
+<width 3840
+<height 2160
+<fps 33333
+<depth 12
+<codec I420
+
+<video chinka9000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/Chimei.mp4_9000k.raw
+<width 3840
+<height 2160
+<fps 33333
+<depth 12
+<codec I420
+
+<video chinka2000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/Chimei.mp4_2000k.raw
+<width 3840
+<height 2160
+<fps 33333
+<depth 12
+<codec I420
+
+<video pieski2000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/PUPPIES.mp4_2000k.raw
+<width 4096
+<height 2304
+<fps 40000
+<depth 12
+<codec I420
+
+<video pieski3000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/PUPPIES.mp4_3000k.raw
+<width 4096
+<height 2304
+<fps 40000
+<depth 12
+<codec I420
+
+<video chinka1500
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/Chimei.mp4_1500k.raw
+<width 3840
+<height 2160
+<fps 33333
+<depth 12
+<codec I420
+
+<video chinka7000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/Chimei.mp4_1500k.raw
+<width 3840
+<height 2160
+<fps 33333
+<depth 12
+<codec I420
+
+<video chinka8000
+<path /home/barti/CLionProjects/UHDPlayer/sampleVideos/Chimei.mp4_1500k.raw
+<width 3840
+<height 2160
+<fps 33333
+<depth 12
+<codec I420
+
